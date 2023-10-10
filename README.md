@@ -1,2 +1,14 @@
 # CMSC320-Final
-Final Project for Data Structures Class
+Final Project for Data Structures Class. The Following is from our Notebook about the project
+
+In the below tutorial, we will be showing how the U.S Urban Food Inflation rate is affected by various types of categories. These categories include individual food items, the cost of labor, the prices of energy used in the food process, the conversion rate of the USD, and the U.S interest rate. The reason that each of these categories were picked is because they play a significant role in the inflation of food in urban communities. Our group decided to choose this topic because it relates to our living situation. Our group members live in College Park, Maryland during the year which is considered an urban city. When creating a budget for college, it is important to note how certain increases in prices will affect our spending on food. This data can also benefit those who live in urban cities. The increase in Food Inflation rates can determine how one's budget for the week will be distributed. Due to this, it is important that the U.S urban food inflation rate can be predicted so that someone knows how to prepare for the future.
+
+Below I will explain the categories and why we choose them.
+
+We choose the individual food prices of popular items because we wanted to see how each item affected the overall food inflation rate. We found this to be significant because individual food prices increasing or decreasing can be informative to why the food inflation rate is increasing or decreasing.
+
+Next, we choose the minimum wage as a factor of food inflation because we think that the cost of labor will be significant in the inflation rate of food increasing. This was concluded because if worker salaries are increased, then businesses have to accommodate for that increase. We believe that businesses will accommodate for this by raising the prices of foods which increase the inflation rate. The reason that we added the federal minimum wage in 2020 dollars was because we thought the data would be interesting with inflation in comparison to only using the federal minimum wage which only increases.
+
+Energy has a large role in the rate of food inflation. In our tutorial, we choose to focus on the cost of gas and electricity. Some examples of energy being used include transporting food goods via ship and truck and preserving the food.
+
+The conversion rate of USD to other exchange rates would lead to a change in food inflation. The change in food inflation would be because of the rise or fall in conversion of the USD to other currencies. A lot of the food items that we import come for other countries such as Mexico and Canada which is why we choose those two countries. We wanted to see if the conversion rate fluctuation plays a role in the increase or decrease of food inflation rates.
